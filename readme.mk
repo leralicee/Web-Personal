@@ -1,6 +1,6 @@
 # Lloc web personal
-
-Aquest és el meu lloc web personal fet com a treball escolar.  
+Aquest és el meu lloc web personal fet com a treball escolar. 
+https://github.com/leralicee/Web-Personal 
 
 ## Descripció
 És una pàgina web que mostra informació personal amb una secció de text i una imatge. També inclou un botó que pot descarregar un fitxer.  
