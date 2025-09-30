@@ -22,10 +22,6 @@ a {
     left: 0;
     width: 100%;
     padding: 25px 9%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    z-index: 100;
 }
 
 .navbar .logo {

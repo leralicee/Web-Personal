@@ -12,7 +12,3 @@ La pàgina està feta amb HTML i CSS i utilitza una font de Google Fonts (Poppin
 - Secció "Home" amb text i imatge.
 - Botó estilitzat per descarregar fitxers.
 - Animació simple del text amb efecte de "typing".
-
----
-
-Fi.
